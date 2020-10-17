@@ -1,5 +1,6 @@
 # GCPCrashCourse
 Landing page for #GCPCrashCourse
+Let us know if the links are outdated. 
 
 ## Tracks and their quest 
 http://bit.ly/gcptrack
